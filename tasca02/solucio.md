@@ -87,7 +87,7 @@ Potència (VA) = 7,2 W / 1 = 7,2 VA
 
 Imatge **Back UPS Pro BR**:
 
-![Imatge del primer SAI, el Back UPS Pro BR](Projecte2/tasca02/img/SAI1.png)
+![Imatge del primer SAI, el Back UPS Pro BR](/tasca02/img/SAI1.png)
 
 ---
 
@@ -140,4 +140,5 @@ Després d’analitzar les necessitats energètiques de l’oficina i avaluar di
 ### ✅ Conclusió
 
 > El **CoolBox SCUDO3 SAI** representa **l’opció més equilibrada**, oferint totes les funcionalitats necessàries amb una inversió raonable i **sense prestacions superflues**.
+
 
