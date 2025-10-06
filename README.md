@@ -44,7 +44,7 @@ Al llarg de diverses tasques individuals i en grup, configurarem serveis, analit
 | ID | Producte | Descripció | Estat |
 |----|----------|------------|-------|
 | P01 | **Kanban & GitHub** | Tauler complet + repositori estructurat amb README i presentació | ✅ |
-| P02 | **Documentació** | Totes les tasques T01–T11 documentades en Markdown | ⏳ |
+| P02 | **Documentació** | [Tasca 02](tasca02) i [Tasca 03](tasca03) | ⏳ |
 | P03 | **Presentació Hosting** | Comparativa de hosting + proposta professional | 📌 |
 
 ---
