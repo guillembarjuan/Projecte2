@@ -11,8 +11,6 @@ Al llarg de diverses tasques individuals i en grup, configurarem serveis, analit
 
 > Utilitzem **Microsoft Planner** per gestionar les tasques amb un tauler Kanban compartit entre tot l’equip.
 
-📎 [**Enllaç al tauler de Planner**](Projecte3/Kanban/enllaç_planner.md)
-
 ### Buckets utilitzats:
 - **Backlog** → idees i tasques pendents  
 - **Per fer** → tasques preparades per començar  
