@@ -1,1 +1,2 @@
-[Tornar a la pàgina principal](../README.md)
+[Tornar a la pàgina principal](../)
+
