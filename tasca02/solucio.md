@@ -97,7 +97,7 @@ Imatge **Back UPS Pro BR**:
 
 Imatge **CoolBox SCUDO3 SAI**:
 
-![Imatge del segon SAI, el CoolBox SCUDO3 SAI](/tasca02/img/SAI.png)
+![Imatge del segon SAI, el CoolBox SCUDO3 SAI](/tasca02/img/SAI2.png)
 
 ---
 
@@ -150,6 +150,7 @@ Després d’analitzar les necessitats energètiques de l’oficina i avaluar di
 ### ✅ Conclusió
 
 > El **CoolBox SCUDO3 SAI** representa **l’opció més equilibrada**, oferint totes les funcionalitats necessàries amb una inversió raonable i **sense prestacions superflues**.
+
 
 
 
