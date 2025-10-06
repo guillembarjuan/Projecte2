@@ -67,5 +67,8 @@ Redactar un **informe tècnic** que inclogui:
 
 [Solució de la tasca](solucio.md)
 
+---
+
 [Tornar a la pàgina principal](../)
+
 
