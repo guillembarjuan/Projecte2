@@ -82,12 +82,22 @@ Potència (VA) = 7,2 W / 1 = 7,2 VA
 | **Back UPS Pro BR**     | 720 W        | 1200 VA       | Line-interactive | 10 min   | 6 de bateria + 2 protecció sobretensions                              | 494 €    | APC    |
 | **CoolBox SCUDO3 SAI**  | 480 W        | 800 VA        | Line-interactive | 10 min   | 4 de bateria + 2 protecció sobretensions                              | 75 €     | CoolBox|
 
-📎 [Back UPS Pro BR — Amazon](https://www.amazon.es/Back-UPS-APC-Schneider-Electric/dp/B07ZHHDTP2?th=1)  
-📎 [CoolBox SCUDO3 SAI — Amazon](https://www.amazon.es/CoolBox-Alimentaci%C3%B3n-Ininterrumpida-Pantalla-Autonom%C3%ADa/dp/B0DP32KVDS/ref=sr_1_8?dib=eyJ2IjoiMSJ9.TPWIcXaP9WVUc9-GRhN_nFEkAemOmWxkxyzY2Lqhfk5y08onFrBLbjk_ShxTX8j1wdfLxOXEMeL3CT9qSuBwFqKujw66o-KeJNr8m8AUed2o41FMz4xmm0lWM-_la5n46hqXgQBYiXceyN0aYcZ7I3SNXwrqXw0SFzkP3Y-dJvP19sY6noGsHWRcJxYoir7C5tGyuedaCDmctgO51MHF-YmpMLJTDJaraPVSK3-mfUZ7o7lNBG6hisj3UAV6v_MGxOvADVCLeo-EQnQThmtLMDO90M1hpfCa8IjuAobBKDc.VTpQzgMRZslnKNy77XLSYfNSVyPZyBwMojaCnxZUwwI&dib_tag=se&keywords=comprar+sai&qid=1759255833&sr=8-8)
+## 📎 Enllaços dels models analitzats
+
+- [🔸 **Back-UPS APC Schneider Electric** — Amazon](https://www.amazon.es/Back-UPS-APC-Schneider-Electric/dp/B07ZHHDTP2?th=1)  
+- [🔸 **CoolBox SCUDO3 SAI** — Amazon](https://www.amazon.es/CoolBox-Alimentaci%C3%B3n-Ininterrumpida-Pantalla-Autonom%C3%ADa/dp/B0DP32KVDS/ref=sr_1_8?dib=eyJ2IjoiMSJ9.TPWIcXaP9WVUc9-GRhN_nFEkAemOmWxkxyzY2Lqhfk5y08onFrBLbjk_ShxTX8j1wdfLxOXEMeL3CT9qSuBwFqKujw66o-KeJNr8m8AUed2o41FMz4xmm0lWM-_la5n46hqXgQBYiXceyN0aYcZ7I3SNXwrqXw0SFzkP3Y-dJvP19sY6noGsHWRcJxYoir7C5tGyuedaCDmctgO51MHF-YmpMLJTDJaraPVSK3-mfUZ7o7lNBG6hisj3UAV6v_MGxOvADVCLeo-EQnQThmtLMDO90M1hpfCa8IjuAobBKDc.VTpQzgMRZslnKNy77XLSYfNSVyPZyBwMojaCnxZUwwI&dib_tag=se&keywords=comprar+sai&qid=1759255833&sr=8-8)
+
+
 
 Imatge **Back UPS Pro BR**:
 
 ![Imatge del primer SAI, el Back UPS Pro BR](/tasca02/img/SAI1.png)
+
+---
+
+Imatge **CoolBox SCUDO3 SAI**:
+
+![Imatge del segon SAI, el CoolBox SCUDO3 SAI](/tasca02/img/SAI2.png)
 
 ---
 
@@ -140,5 +150,6 @@ Després d’analitzar les necessitats energètiques de l’oficina i avaluar di
 ### ✅ Conclusió
 
 > El **CoolBox SCUDO3 SAI** representa **l’opció més equilibrada**, oferint totes les funcionalitats necessàries amb una inversió raonable i **sense prestacions superflues**.
+
 
 
