@@ -28,14 +28,24 @@ Primer, he creat una **màquina virtual a VirtualBox** amb les següents especif
 
 ### 🌀 Accés al GRUB i Modificació d'Arrencada
 1. He iniciat la màquina virtual i he premut la tecla **Shift** + una lletra aleatòria del teclat.  
-2. He accedit al **menú GRUB**.  
+2. He accedit al **menú GRUB**.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/advancedopt.png)
+   
 3. He entrat a **“Advanced options for Zorin”** i, un cop a dins, he seleccionat **Recovery Mode**.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/recoverymode.png)
 
 ---
 
 ### 👤 Identificació d'Usuari i Canvi de Contrasenya
-1. Un cop dins del **Recovery Mode**, he seleccionat l’opció **root** per obtenir accés d’administrador.  
-2. Ara ja puc executar comandes com a `root`.
+1. Un cop dins del **Recovery Mode**, he seleccionat l’opció **root** per obtenir accés d’administrador.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/menuperentrarroot.png)
+    
+2. Ara ja puc executar comandes com a **root**.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/terminalroot.png)
 
 #### Procés del canvi de contrasenya
 He executat la següent comanda per canviar la contrasenya de l’usuari:
@@ -46,12 +56,19 @@ En el meu cas:
 
 **passwd Miquel**
 
+![Imatge de la configuració inical de la maquina](/tasca03/img/canvipasswd.png)
+
 El sistema em demana introduir la nova contrasenya dues vegades per confirmar.
 
 ### ✅ Verificació d'Accés
 1. He reiniciat la màquina virtual.
 2. He accedit amb la nova contrasenya.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/comprobaciocontra.png)
+   
 3. He pogut entrar a l’escriptori sense problemes.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/escriptori.png)
 
 ---
 
@@ -60,7 +77,12 @@ Després de comprovar que es podia recuperar l’accés fàcilment, he procedit 
 
 ### 🧰 Generar el hash de la contrasenya
 He accedit al **terminal** de la màquina Zorin i he executat:
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/terminal.png)
+
 **grub-mkpasswd-pbkdf2**
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/terminal.png)
 
 Aquesta comanda crea un hash PBKDF2 de la contrasenya que servirà per protegir el GRUB.
 
@@ -112,4 +134,5 @@ Això evita que algú sense coneixements pugui reiniciar la contrasenya de l’u
 ---
 
 [Tornar a la pàgina principal](../)
+
 
