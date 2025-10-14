@@ -41,7 +41,10 @@ Aquesta activitat es documentarà en dos fitxers:
 
 ---
 
+[Solució de la tasca](solucio.md)
 
+---
 
 [Tornar a la pàgina principal](../)
+
 
