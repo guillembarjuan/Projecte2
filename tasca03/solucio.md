@@ -12,9 +12,17 @@ Addicionalment, es va demanar la implementació de **mesures de seguretat per ev
 Primer, he creat una **màquina virtual a VirtualBox** amb les següents especificacions:
 
 - Nom de la màquina i carpeta d’emmagatzematge (dins de “Documents”).  
-- ISO de **Zorin OS**.  
-- **Memòria RAM:** 8 GB.  
+- ISO de **Zorin OS**.
+
+  ![Imatge de la configuració inical de la maquina](/tasca03/img/configuracioinicialmaquina.png)
+
+- **Memòria RAM:** 8 GB.
+
+  ![Imatge de la configuració inical de la maquina](/tasca03/img/configram.png)
+  
 - **Disc:** Connectat el disc virtual clonat del client.
+  
+  ![Imatge de la configuració inical de la maquina](/tasca03/img/configdisc.png)
 
 ---
 
@@ -104,3 +112,4 @@ Això evita que algú sense coneixements pugui reiniciar la contrasenya de l’u
 ---
 
 [Tornar a la pàgina principal](../)
+
