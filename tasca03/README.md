@@ -36,8 +36,8 @@ Per evitar riscos sobre l’equip original, s’ha realitzat un **clonatge del d
 
 ## 📂 Lliurament
 Aquesta activitat es documentarà en dos fitxers:
-- `README.md` → Explicació general de la tasca (aquest fitxer).  
-- `solucio.md` → Procediment complet, captures i resultats obtinguts.
+- README.md → Explicació general de la tasca (aquest fitxer).  
+- solucio.md → Procediment complet, captures i resultats obtinguts.
 
 ---
 
@@ -46,5 +46,6 @@ Aquesta activitat es documentarà en dos fitxers:
 ---
 
 [Tornar a la pàgina principal](../)
+
 
 
