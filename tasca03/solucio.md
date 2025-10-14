@@ -82,7 +82,7 @@ He accedit al **terminal** de la màquina Zorin i he executat:
 
 **grub-mkpasswd-pbkdf2**
 
-![Imatge de la configuració inical de la maquina](/tasca03/img/terminal.png)
+![Imatge de la configuració inical de la maquina](/tasca03/img/capturahash.png)
 
 Aquesta comanda crea un hash PBKDF2 de la contrasenya que servirà per protegir el GRUB.
 
@@ -91,10 +91,16 @@ Si no hi hagués entorn gràfic (per exemple, a Ubuntu Server), es pot redirigir
 
 grub-mkpasswd-pbkdf2 | tee salida.txt
 
+![Imatge de la configuració inical de la maquina](/tasca03/img/capturahashasalida.png)
+
 ### ✍️ Edició de la configuració del GRUB
 El següent pas és editar l’arxiu /etc/grub.d/40_custom per afegir la configuració d’autenticació:
 
+![Imatge de la configuració inical de la maquina](/tasca03/img/arxiuconfig.png)
+
 1. Obro el fitxer salida.txt per copiar el hash generat.
+
+![Imatge de la configuració inical de la maquina](/tasca03/img/entremarxiusalida.png)
 
 - Utilitzo Ctrl + R per buscar el fitxer dins de nano.
 
@@ -134,5 +140,6 @@ Això evita que algú sense coneixements pugui reiniciar la contrasenya de l’u
 ---
 
 [Tornar a la pàgina principal](../)
+
 
 
